@@ -32,3 +32,6 @@ module.exports = {
     }
 }
 ```
+
+Useful links:
+https://babeljs.io/en/setup/#installation
